@@ -1,0 +1,22 @@
+{
+    "fig_width": 3.5,
+    "latex_preamble": [
+        "\\usepackage{amsfonts}",
+        "\\usepackage{amssymb}",
+        "\\usepackage{amsmath}",
+        "\\usepackage{bbold}"
+    ],
+    "rcParams": {
+        "grid.alpha": 0.2,
+        "axes.spines.right": false,
+        "axes.spines.top": false,
+        "legend.frameon": false,
+        "legend.fontsize": 6,
+        "ytick.labelsize": 6,
+        "xtick.labelsize": 6,
+        "font.size": 8,
+        "font.family": "sans",
+        "font.sans-serif": ["Computer Modern Roman"],
+        "text.usetex": true
+    }
+}
